@@ -34,8 +34,8 @@ Welcome to my GitHub! I’m passionate about building decentralized applications
 ## 📫 Connect with Me
 
 - 📧 Email: [(dammifabz@gmail.com)]
-- 🐦 Twitter: [@damilola356075]([https://twitter.com/yourhandle](https://x.com/damilola356075?s=21&t=zy6QfiRhnNVjR0-72gs2Ow))
-- 💼 LinkedIn: [linkedin.com/in/yfabunmi richard]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/fabunmi-richard-a686ab23b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- 🐦 Twitter: [(https://x.com/damilola356075?s=21&t=zy6QfiRhnNVjR0-72gs2Ow)]
+- 💼 LinkedIn: [(https://www.linkedin.com/in/fabunmi-richard-a686ab23b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))]
 
 ---
 
