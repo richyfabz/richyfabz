@@ -29,19 +29,13 @@ Welcome to my GitHub! I’m passionate about building decentralized applications
 
 ---
 
-## 📈 GitHub Stats
-
-![Richard's GitHub Stats](https://github-readme-stats.vercel.app/api?richyfabz=richyfabz&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?richyfabz=richyfabz&layout=compact&theme=radical)
-
 ---
 
 ## 📫 Connect with Me
 
-- 📧 Email: [yourname@email.com](dammifabz@gmail.com)
-- 🐦 Twitter: [@yourhandle]([https://twitter.com/yourhandle](https://x.com/damilola356075?s=21&t=zy6QfiRhnNVjR0-72gs2Ow))
-- 💼 LinkedIn: [linkedin.com/in/yourname]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/fabunmi-richard-a686ab23b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- 📧 Email: [(dammifabz@gmail.com)]
+- 🐦 Twitter: [@damilola356075]([https://twitter.com/yourhandle](https://x.com/damilola356075?s=21&t=zy6QfiRhnNVjR0-72gs2Ow))
+- 💼 LinkedIn: [linkedin.com/in/yfabunmi richard]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/fabunmi-richard-a686ab23b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
 ---
 
